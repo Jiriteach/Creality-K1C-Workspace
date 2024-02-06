@@ -1,6 +1,4 @@
-# Creality-K1C-Workspace
+# CREALITY K1C 3D PRINTER
+### My Workspace & Learnings
 
--- Configurations for Creality Print
---- Creality K1C printer settings
---- Creality Hyper PLA filament settings
---- Creality K1C slicer settings
+<img src="https://img.staticdj.com/e687ba6847b61628d7fa7927d5a5ad65_750x.jpg" width="500" />
