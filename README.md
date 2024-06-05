@@ -1,4 +1,6 @@
-# Creality K1C - 3D Printer
+# Creality K1C Workspace
+
+3D Printer
 
 ### My Workspace & Learnings
 
